@@ -1,12 +1,5 @@
 # Hospital-Management-System
-using advanced data structres and Algorithms such as
-
-    Linked list
-
-    Queue
-
-    Stack ...
-
+using basic c++ without using any OOP concepts it use array to store and retrive data
 
 # Features
 
@@ -14,22 +7,14 @@ this project has this features
 
 patient registration
 
-patient removal
-
-link or initiate an operation process for the patient
-
-it makes a priority queue for accidental cases
+linitiate an operation process for the patient
 
 
 # Used Languages
 
-The project is made of pure C++ with the help of advanced data sturctures and algorithms
+The project is made of pure C++
 
 
 
 # About
-It was my school project at first but after a while I add a lot of customizable features 
-
-which can be applied in real world senario, you can check the functionality on your
-
-local machine
+It is my first school project
